@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Asmit1476/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
