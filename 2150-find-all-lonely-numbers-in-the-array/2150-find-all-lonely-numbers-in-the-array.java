@@ -17,9 +17,8 @@ class Solution {
             int count = (int) entry.getValue();
             if(count == 1){
                 int n = (int) entry.getKey();
-                int x = n-1;
-                int y = n+1;
-                if(!map.containsKey(x) && !map.containsKey(y)){
+                
+                if(!map.containsKey(n-1) && !map.containsKey(n+1)){
                     list.add(n);
                 }
             }
