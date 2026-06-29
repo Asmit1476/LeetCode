@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Asmit1476/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Asmit1476/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Asmit1476/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
