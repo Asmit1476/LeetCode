@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Asmit1476/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Asmit1476/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Asmit1476/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Asmit1476/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Asmit1476/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
