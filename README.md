@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Asmit1476/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Asmit1476/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Asmit1476/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Asmit1476/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
