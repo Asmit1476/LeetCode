@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Asmit1476/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Asmit1476/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asmit1476/LeetCode/tree/master/0268-missing-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Asmit1476/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Asmit1476/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Asmit1476/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Asmit1476/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Asmit1476/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Asmit1476/LeetCode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/Asmit1476/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Asmit1476/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Asmit1476/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Asmit1476/LeetCode/tree/master/0064-minimum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Asmit1476/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Asmit1476/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
